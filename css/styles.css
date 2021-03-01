@@ -1,0 +1,48 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+	border: 0; 
+	font-size: 100%;
+}
+
+body{
+	background-image: url("../images/bg.jpg");
+}
+
+.header{
+	padding: 60px;
+  	text-align: center;
+  	background: #222222;
+  	color: white;
+  	font-size: 30px;
+}
+
+.container{
+	border: 5px;
+	border-style: solid;
+	margin: auto;
+	margin-top: 100px;
+	padding: 25px;
+	background-color: #c4c4c4;
+	width: 40%;
+	color: black;
+	font-family: 'Akaya Telivigala', cursive;
+}
+
+.hdngs{
+	font-weight: bold;
+	text-align: center;
+	padding: 14px;
+}
+
+#desc{
+	padding-top: 40px;
+	float: left;
+	width: 49%;
+	font-size: large;
+}
+
+#bgg{
+	padding-left: 50px;
+	width: 40%
+}
